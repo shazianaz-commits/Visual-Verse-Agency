@@ -1,0 +1,19 @@
+/* TEAM */
+Studio: Visual Verse Agency
+Founder & Creative Director: Shazia Naz
+Location: Pakistan
+WhatsApp: +92 308 8846208
+Email: hello@visualverseagency.com
+YouTube: https://www.youtube.com/@visual_verse_agency
+Instagram: https://www.instagram.com/visual_verse_agency/
+LinkedIn: https://www.linkedin.com/in/shazia-naz-25a519411/
+
+/* SITE */
+Last update: 2026/07/21
+Language: English
+Doctype: HTML5
+Components: Vanilla JS, CSS3
+Software: Hand-coded
+
+/* THANKS */
+Thank you for viewing the source.
