@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /assets/js/
-Disallow: /404.html
-
-Sitemap: https://www.visualverseagency.com/sitemap.xml
